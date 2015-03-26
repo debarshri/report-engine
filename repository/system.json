@@ -1,0 +1,4 @@
+[
+    { "model1" : ["kpi1","kpi2","kpi3"] },
+    { "model2" : ["kpi1","kpi4"] }
+]
